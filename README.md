@@ -1,3 +1,5 @@
+#FpExperiencies #DawMp03Uf06 #Programació #BasesDeDades
+
 # Campionat mundial de Pedra, Paper Tisores
 
 ![Pedra, paper, tisores](README/pedra1.png)
